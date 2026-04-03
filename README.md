@@ -8,5 +8,4 @@ https://console.firebase.google.com/
 
 Create/Select an existing project and manage it with the left panel
 
-
-<div style="text-align:center; height:45em; margin-top:5em;"><img src="image/README/1775202022336.png" /></div>.
+<div style="text-align:center; height:45em; margin-top:5em;"><img src="image/README/1775202022336.png" /></div>
